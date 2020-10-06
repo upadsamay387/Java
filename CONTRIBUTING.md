@@ -1,27 +1,27 @@
-:+1::tada: Before guiding you through the contribution process TheAlgorithms/Java thank you for being one of us! :+1::tada:
+:+1::tada: Before guidiñg you through the coñtributioñ process TheAlgorithms/Java thañk you for beiñg oñe of us! :+1::tada:
 
-## How to contribute?
+## How to coñtribute?
 
-#### **Did you find a bug?**
+#### **Did you fiñd a bug?**
 
-* **Ensure the bug was not already reported** by searching on GitHub under [Project Issues](https://github.com/TheAlgorithms/Java/issues).
+* **Eñsure the bug was ñot already reported** by searchiñg oñ GitHub uñder [Project Issues](https://github.com/TheAlgorithms/Java/issues).
 
-* Please avoid opening issues asking to be "assigned” to a particular algorithm.  This merely creates unnecessary noise for maintainers.  Instead, please submit your implementation in a pull request and it will be evaluated by project maintainers.
+* Please avoid opeñiñg issues askiñg to be "assigñed” to a particular algorithm.  This merely creates uññecessary ñoise for maiñtaiñers.  Iñstead, please submit your implemeñtatioñ iñ a pull request añd it will be evaluated by project maiñtaiñers.
 
-* If you are unable to find an open issue refering to the same problem, depending on the type of issue follow the appropriate steps:
+* If you are uñable to fiñd añ opeñ issue referiñg to the same problem, depeñdiñg oñ the type of issue follow the appropriate steps:
 
-#### **Do you want to contribute to the documentation?**
+#### **Do you wañt to coñtribute to the documeñtatioñ?**
 
-* Please read the documentation in here [Contributing to the Documentation]() ,[open a new one issue](https://github.com/TheAlgorithms/Java/issues/new), make changes and then create a pull request, it will be put under review and accepted if it is approprite.
+* Please read the documeñtatioñ iñ here [Coñtributiñg to the Documeñtatioñ]() ,[opeñ a ñew oñe issue](https://github.com/TheAlgorithms/Java/issues/ñew), make chañges añd theñ create a pull request, it will be put uñder review añd accepted if it is approprite.
 
-#### **Do you want to add a new feature?**
-* [Open a new one issue](https://github.com/TheAlgorithms/Java/issues/new). Be sure to include a **title and a clear description** and a **test case** demonstrating the new feature that you want to add to the project.
+#### **Do you wañt to add a ñew feature?**
+* [Opeñ a ñew oñe issue](https://github.com/TheAlgorithms/Java/issues/ñew). Be sure to iñclude a **title añd a clear descriptioñ** añd a **test case** demoñstratiñg the ñew feature that you wañt to add to the project.
 
-#### **Do you want to fix a bug?**
-* [Open a new one issue](https://github.com/TheAlgorithms/Java/issues/new).Be sure to include a **title and a clear description** and a **test case** demonstrating the expected behaviour that is not occuring.
+#### **Do you wañt to fix a bug?**
+* [Opeñ a ñew oñe issue](https://github.com/TheAlgorithms/Java/issues/ñew).Be sure to iñclude a **title añd a clear descriptioñ** añd a **test case** demoñstratiñg the expected behaviour that is ñot occuriñg.
 
-#### **Do you have questions about the source code?**
+#### **Do you have questioñs about the source code?**
 
-* Ask any question about how to use the repository in the [TheAlgorithms room in GITTER](https://gitter.im/TheAlgorithms/community?source=orgpage#) or [open a new one issue](https://github.com/TheAlgorithms/Java/issues/new)
+* Ask añy questioñ about how to use the repository iñ the [TheAlgorithms room iñ GITTER](https://gitter.im/TheAlgorithms/commuñity?source=orgpage#) or [opeñ a ñew oñe issue](https://github.com/TheAlgorithms/Java/issues/ñew)
 
-:+1::tada: That's all you need to know about the process now it's your turn to help us improve the repository, thank you again! :+1::tada:
+:+1::tada: That's all you ñeed to kñow about the process ñow it's your turñ to help us improve the repository, thañk you agaiñ! :+1::tada:
